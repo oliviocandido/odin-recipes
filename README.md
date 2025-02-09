@@ -2,4 +2,4 @@
 
 My First Project in TOP
 
-The first project is about the basics of HTML. I will create a simple and functional web page.
+This first project is about the basics of HTML. I created a simple and functional web page with my favorite recipes. 
